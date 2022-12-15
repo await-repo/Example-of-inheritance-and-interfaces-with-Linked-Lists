@@ -17,7 +17,7 @@ Es importante mencionar que las clases descritas en la lista de arriba heredan s
 > #### **Nota**
 > Las clases `circularList` y `simpleList` **no pueden ser instanciadas**, pero si pueden declararse variables de su tipo.
 
-### **Implementacion de interfaces**
+### **Implementación de interfaces**
 Además de heredar de las clases descritas anteriormente, estas deben de implementar el metodo **`delete`** según sea el caso, para esto deberán implementar solo una de las siguientes dos interfaces (Dependiendo del tipo de Nodo de la lista)
 
 * Para listas ligadas (única dirección **`interfaceSimpleList`**
